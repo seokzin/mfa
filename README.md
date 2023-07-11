@@ -2,7 +2,7 @@
 
 ## stacks
 
-- lerna
+- (lerna)
 - yarn workspaces
 - yarn berry
 - ...
