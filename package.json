@@ -7,7 +7,7 @@
   ],
   "scripts": {
     "lint": "eslint ./packages --ext .ts,.tsx,.js,.jsx --cache",
-    "common-components": "yarn workspace @common/components",
+    "common-ui": "yarn workspace @common/components",
     "common-styles": "yarn workspace @common/styles",
     "common-utils": "yarn workspace @common/utils",
     "prototype-a": "yarn workspace prototype-a",

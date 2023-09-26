@@ -104,14 +104,14 @@ module.exports = {
     },
     {
       files: [
-        'packages/common-components/**/*.ts?(x)',
-        'packages/common-components/**/*.js?(x)',
+        'packages/common-ui/**/*.ts?(x)',
+        'packages/common-ui/**/*.js?(x)',
       ],
       settings: {
         'import/resolver': {
           typescript: {
             project: path.resolve(
-              `${__dirname}/packages/common-components/tsconfig.json`
+              `${__dirname}/packages/common-ui/tsconfig.json`
             ),
           },
         },

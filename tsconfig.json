@@ -15,14 +15,14 @@
   },
   "references": [
     {
-      "path": "packages/common-components"
+      "path": "packages/common-ui"
     },
     {
       "path": "packages/common-styles"
     },
     {
       "path": "packages/common-utils"
-    },
+    }
   ],
   "exclude": ["packages/**/dist/**"],
   "include": []
